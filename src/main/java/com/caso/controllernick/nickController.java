@@ -1,4 +1,4 @@
-package com.controller.nick;
+package com.caso.controllernick;
 
 import java.util.List;
 import java.util.Map;
