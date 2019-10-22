@@ -10,6 +10,6 @@ public class RamirezController {
 	@GetMapping("/")
 	public String ramirez() {
 
-		return "Disuelvo el congreso";
+		return "Mi nombre es Keny";
 	}
 }
